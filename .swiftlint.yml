@@ -1,0 +1,19 @@
+disabled_rules:
+  - colon
+  - comma
+  - control_statement
+  - trailing_whitespace
+  - self_in_property_initialization
+  - identifier_name
+  - void_function_in_ternary
+opt_in_rules:
+  - empty_count
+  - missing_docs
+excluded: 
+  - Carthage
+  - Pods
+  - Source/ExcludedFolder
+  - Source/ExcludedFile.swift
+reporter: xcode
+warning_threshold: 15
+line_length: 400

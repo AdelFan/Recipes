@@ -1,0 +1,6 @@
+framework module Pods_TableView_RecipesTests {
+  umbrella header "Pods-TableView_RecipesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

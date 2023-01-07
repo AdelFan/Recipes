@@ -1,0 +1,8 @@
+k  - Pods
+  - Source/ExcludedFolder
+  - Source/ExcludedFile.swift
+file_length:
+  warning: 500
+  error: 600
+reporter: xcode
+warning_threshold: 15
